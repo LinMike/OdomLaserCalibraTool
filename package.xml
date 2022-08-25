@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package>
-  <name>laser-odom_calibration</name>
+  <name>laser_odom_calibration</name>
   <version>0.1.0</version>
-  <description>The laser-odom_calibration package</description>
+  <description>The laser_odom_calibration package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
@@ -19,7 +19,7 @@
   <!-- Url tags are optional, but multiple are allowed, one per tag -->
   <!-- Optional attribute type can be: website, bugtracker, or repository -->
   <!-- Example: -->
-  <!-- <url type="website">http://wiki.ros.org/laser-odom_calibration</url> -->
+  <!-- <url type="website">http://wiki.ros.org/laser_odom_calibration</url> -->
 
 
   <!-- Author tags are optional, multiple are allowed, one per tag -->

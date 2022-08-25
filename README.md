@@ -1,4 +1,4 @@
-# laser-odom_calibration
+# laser_odom_calibration
 
 ## 1. Prerequisites
 

@@ -1,8 +1,8 @@
 <launch>
 
-  <node pkg="laser-odom_calibration" name="calib" type="io_test" output="screen">
-    <param name="file_path" type="string" value="/home/mike/workspace/AGV/AGV_Data/sk/" />
-    <param name="bagname" type="string" value="local" />
+  <node pkg="laser_odom_calibration" name="calib" type="io_test" output="screen">
+    <param name="file_path" type="string" value="$(env HOME)/" />
+    <param name="bagname" type="string" value="laser_calib" />
     <param name="laser_topic" type="string" value="/scan" />
     <param name="odom_topic" type="string" value="/odom" />
   </node>
